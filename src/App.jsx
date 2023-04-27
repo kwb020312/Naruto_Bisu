@@ -5,12 +5,14 @@ import Naruto from "./components/canvas/Naruto";
 
 function App() {
   return (
-    <Canvas shadows>
-      <Suspense fallback={null}>
-        <OrbitControls />
-        <Naruto />
-      </Suspense>
-    </Canvas>
+    <div className="h-[100vh]">
+      <Canvas shadows>
+        <Suspense fallback={null}>
+          <OrbitControls />
+          <Naruto />
+        </Suspense>
+      </Canvas>
+    </div>
   );
 }
 
