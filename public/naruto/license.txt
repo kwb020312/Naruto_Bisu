@@ -1,0 +1,11 @@
+Model Information:
+* title:	Naruto
+* source:	https://sketchfab.com/3d-models/naruto-1f815313cbe44c1882712549607b1a2c
+* author:	kratosgd96 (https://sketchfab.com/kratosgd96)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Naruto" (https://sketchfab.com/3d-models/naruto-1f815313cbe44c1882712549607b1a2c) by kratosgd96 (https://sketchfab.com/kratosgd96) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
