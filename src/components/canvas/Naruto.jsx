@@ -14,9 +14,9 @@ const Naruto = () => {
       />
       <primitive
         object={naruto.scene}
-        scale={1}
-        position={[0, -2, 0]}
-        rotation={[0, 9, 0]}
+        scale={0.5}
+        position={[18, -2, -25]}
+        rotation={[0, 12, 0]}
       />
     </mesh>
   );
